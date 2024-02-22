@@ -11,10 +11,10 @@ https://atcoder.jp/contests/typical90
 
 ★3 (0/20)
 
-|Title|Link|Solved?|
+| Title | Link | Solved? |
 | ------------- | ------------- |
-|Cross Sum|https://atcoder.jp/contests/typical90/tasks/typical90_d|o|
-||||
+| Cross Sum | https://atcoder.jp/contests/typical90/tasks/typical90_d | o |
+
 
 ★4 (0/14)
 

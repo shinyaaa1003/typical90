@@ -8,10 +8,9 @@ _INPUT = """\
 """
 sys.stdin = io.StringIO(_INPUT)
 
-# code 
-#import pypyjit
-#pypyjit.set_param('max_unroll_recursion=-1')
-import sys
+# code
+# import pypyjit
+# pypyjit.set_param('max_unroll_recursion=-1')
 sys.setrecursionlimit(10**9)
 """
 00 (( 
@@ -19,6 +18,7 @@ sys.setrecursionlimit(10**9)
 10 )(
 11 ))
 """
+
 
 def isok(S):
     c = 0
@@ -34,13 +34,14 @@ def isok(S):
     else:
         return False
 
+
 def main():
     N = int(input())
-    
+
     for i in range(2**N):
         tmp = ''
         for j in range(N-1, -1, -1):
-            if (i>>j)&1 == 1:
+            if (i >> j) & 1 == 1:
                 tmp += ')'
             else:
                 tmp += '('

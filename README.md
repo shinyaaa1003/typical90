@@ -7,8 +7,8 @@ https://atcoder.jp/contests/typical90
 |Title|Link|Solved?|
 | ------------- | ------------- | ------------- |
 |04 - Cross Sum|https://atcoder.jp/contests/typical90/tasks/typical90_d|o|
-|10 - Score Sum Queries|https://atcoder.jp/contests/typical90/tasks/typical90_j||
-|22 - Cubic Cake|https://atcoder.jp/contests/typical90/tasks/typical90_v||
+|10 - Score Sum Queries|https://atcoder.jp/contests/typical90/tasks/typical90_j|o|
+|22 - Cubic Cake|https://atcoder.jp/contests/typical90/tasks/typical90_v|o|
 |24 - Select +／- One|https://atcoder.jp/contests/typical90/tasks/typical90_x||
 |27 - Sign Up Requests|https://atcoder.jp/contests/typical90/tasks/typical90_aa||
 |33 - Not Too Bright|https://atcoder.jp/contests/typical90/tasks/typical90_ag||
@@ -49,7 +49,7 @@ https://atcoder.jp/contests/typical90
 | ------------- | ------------- | ------------- |
 |01 - Yokan Party|https://atcoder.jp/contests/typical90/tasks/typical90_a|o|
 |03 - Longest Circular Road|https://atcoder.jp/contests/typical90/tasks/typical90_c|o|
-|08 - AtCounter|https://atcoder.jp/contests/typical90/tasks/typical90_h||
+|08 - AtCounter|https://atcoder.jp/contests/typical90/tasks/typical90_h|o|
 |12 - Red Painting|https://atcoder.jp/contests/typical90/tasks/typical90_l||
 
 

@@ -2,20 +2,20 @@
 競プロ典型90
 https://atcoder.jp/contests/typical90
 
-★2 (0/10)
+★2 (10/10) ✅
 
 |Title|Link|Solved?|
 | ------------- | ------------- | ------------- |
 |04 - Cross Sum|https://atcoder.jp/contests/typical90/tasks/typical90_d|o|
 |10 - Score Sum Queries|https://atcoder.jp/contests/typical90/tasks/typical90_j|o|
 |22 - Cubic Cake|https://atcoder.jp/contests/typical90/tasks/typical90_v|o|
-|24 - Select +／- One|https://atcoder.jp/contests/typical90/tasks/typical90_x||
-|27 - Sign Up Requests|https://atcoder.jp/contests/typical90/tasks/typical90_aa||
-|33 - Not Too Bright|https://atcoder.jp/contests/typical90/tasks/typical90_ag||
-|55 - Select 5|https://atcoder.jp/contests/typical90/tasks/typical90_bc||
-|61 - Deck|https://atcoder.jp/contests/typical90/tasks/typical90_bi||
-|67 - Base 8 to 9|https://atcoder.jp/contests/typical90/tasks/typical90_bo||
-|78 - Easy Graph Problem|https://atcoder.jp/contests/typical90/tasks/typical90_bz||
+|24 - Select +／- One|https://atcoder.jp/contests/typical90/tasks/typical90_x|o|
+|27 - Sign Up Requests|https://atcoder.jp/contests/typical90/tasks/typical90_aa|o|
+|33 - Not Too Bright|https://atcoder.jp/contests/typical90/tasks/typical90_ag|o|
+|55 - Select 5|https://atcoder.jp/contests/typical90/tasks/typical90_bc|o|
+|61 - Deck|https://atcoder.jp/contests/typical90/tasks/typical90_bi|o|
+|67 - Base 8 to 9|https://atcoder.jp/contests/typical90/tasks/typical90_bo|o|
+|78 - Easy Graph Problem|https://atcoder.jp/contests/typical90/tasks/typical90_bz|o|
 
 ★3 (0/20)
 
